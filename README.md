@@ -53,3 +53,23 @@ Construir una herramienta de software que permita:
 # ALCANCE DEL PROYECTO
 
 Diseño e implementación de un sistema de software en infraestructura “On Premise” que permitirá controlar y gestionar las actividades asociada a todos y cada uno de los proyectos que existen en una organización, tal como, oportunidad, oferta, cliente, actividades, responsables, fechas de entrega, actas de inicio, cierre y control de cambios, recursos, entre otras. Los privilegios de usuarios deben ser fáciles de administrar y garantizar la protección predeterminada de la información, manejando diferentes grupos de usuarios con niveles detallados de acceso, incluso a nivel de documento.
+
+LISTA DE TAREAS
+1.	Informe del Estado actual del proceso.
+2.	Análisis detallado del proceso actual.
+3.	levantamiento de requerimientos (entrevistas, encuestas, reuniones).
+4.	Especificación de requerimientos.
+5.	Análisis de requerimientos.
+6.	Identificación de riesgos.
+7.	Diseño del software(Diagramas).
+8.	Diseño de la arquitectura del software (Tecnologías, infraestructura)
+9.	Generación de la propuesta.
+10.	Aprobación de propuesta por equipo de trabajo y cliente.
+11.	Desarrollo de software.
+12.	Pruebas (Unitarias, integración).
+13.	Manuales y capacitación.
+14.	Importación data en utilización.
+15.	Despliegue a producción.
+16.	Mantenimiento y soporte(Actualizaciones).
+
+
