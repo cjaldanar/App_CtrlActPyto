@@ -72,4 +72,5 @@ Diseño e implementación de un sistema de software en infraestructura “On Pre
 15.	Despliegue a producción.
 16.	Mantenimiento y soporte(Actualizaciones).
 
+![Imagen EDT](https://github.com/cjaldanar/App_CtrlActPyto/blob/master/EDT.png)
 
