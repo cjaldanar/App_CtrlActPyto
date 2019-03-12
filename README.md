@@ -14,7 +14,7 @@ Construir una plataforma de gestión de proyectos en línea para controlar y ges
 
 Construir una herramienta de software que permita:
    
-1.	Crear: 
+1.	Crear y Planificar: 
 
 * Componentes esenciales de trabajo como tareas en combinación de estructura de carpetas o proyectos para así dividir los objetivos en partes manejables, adjunta archivo y define plazos de entrega. Controla fácilmente el progreso general y las aportaciones individuales.
 
@@ -22,7 +22,7 @@ Construir una herramienta de software que permita:
 
 * Edición en tiempo real y gestión de archivos, al trabajar de forma colaborativa logrará visualizar los cambios de todos en tiempo real. Además editara libremente, carga  o enlaza elementos adjuntos en el ordenador, carga, enlaza o edita (pdf, jpg, png, microsoft, google,box, dropbox,etc.)
 
-2.	Planificar
+2.	Gestionar
 
 * A través de la construcción de Diagramas de Gantt establecer una cronología que permita visualizar la programación de los proyectos, estableciendo las dependencias en tiempo real y ajustable para encaminar adecuadamente al equipo de trabajo. 
 
