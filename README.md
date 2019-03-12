@@ -1,5 +1,4 @@
-# App_CtrlActPyto
-Propuesta Aplicación para Control de Actividades en un Proyectoq
+# PROPUESTA DE APLICATIVO PARA EL CONTROL DE ACTIVIDADES EN UN PROYECTO
 
 # DEFINICIÓN DEL PROYECTO
 
