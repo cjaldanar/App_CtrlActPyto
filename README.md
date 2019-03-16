@@ -52,9 +52,15 @@ Construir una herramienta de software que permita:
 
 # ALCANCE DEL PROYECTO
 
-Diseño e implementación de un sistema de software en infraestructura “On Premise” que permitirá controlar y gestionar las actividades asociada a todos y cada uno de los proyectos que existen en una organización, tal como, oportunidad, oferta, cliente, actividades, responsables, fechas de entrega, actas de inicio, cierre y control de cambios, recursos, entre otras. Los privilegios de usuarios deben ser fáciles de administrar y garantizar la protección predeterminada de la información, manejando diferentes grupos de usuarios con niveles detallados de acceso, incluso a nivel de documento.
+Implementación de un sistema de software en infraestructura “On Premise” que permitirá controlar y gestionar las actividades asociada a todos y cada uno de los proyectos que existen en una organización, tal como, oportunidad, oferta, cliente, actividades, responsables, fechas de entrega, actas de inicio, cierre y control de cambios, recursos, entre otras. Los privilegios de usuarios deben ser fáciles de administrar y garantizar la protección predeterminada de la información, manejando diferentes grupos de usuarios con niveles detallados de acceso, incluso a nivel de documento.
 
-# LISTA DE TAREAS
+# CREACIÓN EDT - TÉCNICA DE DESCOMPOSICIÓN
+
+El método utilizado para la creación de la EDT en este proyecto, corresponde a la técnica de descomposición con enfoque descendente y será representada utilizando las fases del ciclo de vida del proyecto como segundo nivel de descomposición, con los entregables del producto y del proyecto insertados en el tercer nivel
+
+O utilizando los entregables principales como segundo nivel de descomposición, como se muestra en el Gráfico 5-13; e Incorporando componentes de nivel inferior que pueden desarrollar organizaciones externas al equipo del proyecto, como por ejemplo trabajo contratado. Así, el proveedor desarrollará la EDT/ WBS para el contrato como parte del trabajo contratado.
+
+
 1.	Informe del Estado actual del proceso.
 2.	Análisis detallado del proceso actual.
 3.	levantamiento de requerimientos (entrevistas, encuestas, reuniones).
