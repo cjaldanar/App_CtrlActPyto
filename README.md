@@ -22,31 +22,37 @@ Implementación de un sistema de software en infraestructura “On Premise” qu
 
 # ACTIVIDADES QUE CUBRE LA HERRAMIENTA
 
-# 1.	Crear y Planificar: 
+# 1.	Modulo Crear: 
 
 * Componentes esenciales de trabajo como tareas en combinación de estructura de carpetas o proyectos para así dividir los objetivos en partes manejables, adjunta archivo y define plazos de entrega. Controla fácilmente el progreso general y las aportaciones individuales.
 * Formularios de solicitud para iniciar cada trabajo y así obtener desde el inicio la información adecuada para que los equipos puedan gestionar y priorizar el trabajo más fácilmente.
 * Edición en tiempo real y gestión de archivos, al trabajar de forma colaborativa logrará visualizar los cambios de todos en tiempo real. Además editara libremente, carga  o enlaza elementos adjuntos en el ordenador, carga, enlaza o edita (pdf, jpg, png, microsoft, google,box, dropbox,etc.)
 
-# 2.	Gestionar
+# 2. Modulo de Planificación:
 
+Permite planificar todos los planes del proyecto:
+* Planificar Gestión del Alcance
+* Planificar Gestión del tiempo
+* Planificar Gestión de los Costos
+* Planificar Gestión de la Calidad
+* Planificar Gestión del Recurso humano
+* Planificar Gestión de la Comunicaciones
+* Planificar Gestión de los Riesgos
+* Planificar Gestión de las Adquisiciones
+* Planificar Gestión de los Interesados
+
+# 3. Modulo Gestionar
+
+* Planes del proyecto: alcance,tiempo,costos,calidad,recurso humano,comunicaciones, riesgos, adquisiciones e interesados.
 * A través de la construcción de Diagramas de Gantt establecer una cronología que permita visualizar la programación de los proyectos, estableciendo las dependencias en tiempo real y ajustable para encaminar adecuadamente al equipo de trabajo. 
 * Mediante la gestión de los recursos a través de una vista de carga de trabajo que permita controlar el rendimiento del equipo de trabajo o reajustar en caso de ser necesario.
 * Controlando la distribución de tiempo y presupuesto del proyecto, la participación de cada miembro del equipo y así realizar una gestión precisa.
 
-# 3.	Colaboración
-
-* Incrementando la productividad y la ejecución entre equipos distribuidos a través de  la comunicación entre equipos interdisciplinarios, simplificando la revisión y aprobación del flujo de actividades en tiempo real, actualizando, integrando y sincronizando las tareas desde el móvil y correo electrónico.
-
-# 4.	Informes
+# 4.	Modulo de Informes
 
 * Elaboración de informes de los proyectos y equipos de trabajo que permitan a la organización obtener la información necesaria para la toma de decisiones del negocio.
 
-# 6.	Integrar
-
-* Se sincroniza correctamente con herramientas office, google, chat, correo electrónico, almacenamiento de archivos, aplicaciones móviles y de escritorio.
-
-# 7.	Seguridad
+# 5.	Modulo de Seguridad
 
 * Controles tecnológicos de acceso basado en funciones, Autenticación segura, seguridad en centro de datos, protección de datos (Cifrado de datos, Back up´s, seguridad móvil, gestión de los datos)
 
